@@ -8,7 +8,7 @@ Project ini merupakan implementasi API CRUD sederhana menggunakan framework **La
 ## Teknologi dan Stack yang Digunakan
 
 - **Framework:** Laravel 11 (PHP)
-- **Bahasa Pemrograman:** PHP 8.x
+- **Bahasa Pemrograman:** PHP 8.4.7
 - **Database:** MySQL 
 - **Dependency Management:** Composer
 - **Tools Development:** XAMPP (PHP + MySQL), Postman (API testing)
