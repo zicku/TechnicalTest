@@ -5,7 +5,7 @@ Project ini merupakan implementasi API CRUD sederhana menggunakan framework **La
 link Vidio : https://www.loom.com/share/40757a7ea067488fa37d6897b4a005da?sid=1bc9ffc1-8e9d-4e71-9c90-1be7cdc0e516
 <img src="Screenshot 2025-05-31 224517.png" alt="Tampilan Aplikasi" width="600" />
 
-
+waktu pengerjaan: 1,5 jam
 ---
 
 ## Teknologi dan Stack yang Digunakan
@@ -17,7 +17,7 @@ link Vidio : https://www.loom.com/share/40757a7ea067488fa37d6897b4a005da?sid=1bc
 - **Tools Development:** XAMPP (PHP + MySQL), Postman (API testing)
 - **Version Control:** Git dan GitHub
 
-waktu pengerjaan: 1,5 jam
+
 ---
 
 ## Fitur Utama
