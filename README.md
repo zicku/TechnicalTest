@@ -16,6 +16,7 @@ link Vidio : https://www.loom.com/share/40757a7ea067488fa37d6897b4a005da?sid=1bc
 - **Dependency Management:** Composer
 - **Tools Development:** XAMPP (PHP + MySQL), Postman (API testing)
 - **Version Control:** Git dan GitHub
+
 waktu pengerjaan: 1,5 jam
 ---
 
