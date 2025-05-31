@@ -2,6 +2,9 @@
 
 ## Deskripsi
 Project ini merupakan implementasi API CRUD sederhana menggunakan framework **Laravel** untuk kebutuhan technical test. API ini menyediakan fitur untuk mengelola data produk, termasuk create, read, update, delete, serta fitur pagination dan pencarian (search & filter).
+link Vidio : https://www.loom.com/share/40757a7ea067488fa37d6897b4a005da?sid=1bc9ffc1-8e9d-4e71-9c90-1be7cdc0e516
+<img src="Screenshot 2025-05-31 224517.png" alt="Tampilan Aplikasi" width="600" />
+
 
 ---
 
